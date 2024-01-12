@@ -6,5 +6,5 @@ This is my participation into Women Who Code 30 days of code challenge in python
 
 | Day | Description                                                          | Link                                                                                          |
 | --- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 1   | #Create a program that swaps the values of two variables             | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenge1.py">Day1</a> |
-| 2   | #Create a program to calculate the area of a circle given its radius | <a href="">Day2</a> |
+| 1   | #Create a program that swaps the values of two variables             | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge1.py">Day1</a> |
+| 2   | #Create a program to calculate the area of a circle given its radius | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge2.py">Day2</a> |
