@@ -11,7 +11,7 @@ def test_sum_of_list():
     assert sum_of_list([1,2,3]) == 6
 
     #test for no numbers
-    assert sum_of_list(["1","2","3"]) == 0
+    assert sum_of_list(["hello","there","world"]) == 0
 
     #test for mix
     assert sum_of_list(["hello",2,3]) == 5
