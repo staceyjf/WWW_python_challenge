@@ -14,3 +14,6 @@ This is my participation into Women Who Code 30 days of code challenge in python
 | 6   | #Write a program to count the occurrences of a specific character in a string. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge6.py">Day4</a> |
 | 7   | #Write a program to check if a number is positive, negative, or zero. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge7.py">Day4</a> |
 | 8  | #Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge8.py">Day4</a> |
+| 9 | #Write a program to check if a number is even or odd. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge9.py">Day4</a> |
+| 10 | #Write a program to remove duplicates from a list. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge10.py">Day4</a> |
+| 11  | #Write a program to print the multiplication table of a given number. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge11.py">Day4</a> |
