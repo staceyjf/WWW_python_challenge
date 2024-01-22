@@ -1,4 +1,4 @@
-# Day 11 : Write a program to reverse a given string.
+# Day 12 : Write a program to reverse a given string.
 
 #user input
 def get_user_input_12():
@@ -19,6 +19,11 @@ def reverse_string(user_input):
         return result
     else:
         return None
+    
+# use slicing
+    # def reverse(str1):
+    # str1 = str1[::-1] - reassign, starts at the end and moves backwards step by step
+    # return str1
 
 if __name__ == "__main__":
     user_input = get_user_input_12()
