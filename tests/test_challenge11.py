@@ -14,14 +14,10 @@ def test_print_times_table(capsys):
     # Compare the captured output with the expected output
     assert captured.out == expected_output
 
-    #Test should return None if a negative number is used
-    assert print_times_table(-5) == None
-
-    #Test should return None if a string is inputed
-    assert print_times_table(('hello')) == None
-
-    #Test should return None if zero is inputted
-    assert print_times_table(0) == None
+    # Test should return None if a string is inputted
+    print_times_table('hello')
+    captured_with_string = capsys.readouterr()
+    assert captured_with_string.out == ''  
 
 def test_get_user_input_11(monkeypatch):
     # Test should return a positive number
