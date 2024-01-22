@@ -21,3 +21,7 @@ def get_user_input_9():
     except ValueError as e:
         print(e)
         return None
+    
+if __name__ == "__main__":
+    n = get_user_input_9()
+    print(check_odd_or_even(n))

@@ -20,12 +20,16 @@ def remove_dups(input_list):
 def get_user_input_10():
     user_input = input('Enter a list:')
     try:
-        #checking to see if it is a list
-        if isinstance(user_input,list):
-            return user_input
+        #checking to see if it is a string representation of a list
+        if isinstance(eval(user_input), list):
+            return eval(user_input)
         else:
             print('Invalid entry. Please input a list')
             return None
-    except ValueError as e:
+    except Exception as e:
         print(e)
         return None
+
+if __name__ == "__main__":
+    input_list = get_user_input_10()
+    print(remove_dups(input_list))
