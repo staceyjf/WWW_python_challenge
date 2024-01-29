@@ -3,17 +3,15 @@ import random
 
 #user input
 def get_user_input_13():
-    user_input = input('Enter a list:')
     try:
-        #checking to see if the input is a list and not blank
-        if isinstance(eval(user_input), list) and user_input != '':
+        user_input = input('Enter a list:').strip()
+        if user_input.startswith("[") and user_input.endswith("]"):
             return eval(user_input)
         else:
-            print('Invalid entry. Please input a list')
-            return None
-    except Exception as e:
-        print(e)
-        return None
+            print('Invalid input. Please enter a valid list.')
+    except SyntaxError:
+        print('Invalid input. Please enter a valid list.')
+    return None
 
 def shuffle(input_list):
     if not isinstance(input_list, list): #in the case of string or numbers
