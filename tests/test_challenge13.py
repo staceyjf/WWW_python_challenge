@@ -5,10 +5,14 @@ from challenges.challenge13 import get_user_input_13, shuffle
 
 def test_shuffle():
     # Test should return a random order for the list
-    assert set(shuffle([1, 2, 3])) != [1, 2, 3]
+    original_list = [1, 2, 3]
+    shuffled_list = shuffle(original_list[:])  # Make a copy before shuffling
+    assert shuffled_list != original_list
 
     # Test should return a random order with mixed datatypes
-    assert set(shuffle(["hello", "there", 2, 4])) != ["hello", "there", 2, 4]
+    original_list = ["hello", "there", 2, 4]
+    shuffled_list = shuffle(original_list[:])  # Make a copy before shuffling
+    assert shuffled_list != original_list
 
     # Test should return empty if the supplied list is empty
     assert shuffle([]) == []

@@ -20,3 +20,6 @@ This is my participation into Women Who Code 30 days of code challenge in python
 | 12  | #Write a program to reverse a given string. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge12.py">Day12</a> |
 | 13  | #Write a program to shuffle the elements of a list randomly. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge13.py">Day13</a> |
 | 14  | #Write a program to print the first n numbers of a Fibonacci sequence. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge14.py">Day14</a> |
+| 15  | #Create a program that checks if a year is a leap year. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge15.py">Day15</a> |
+| 16  | #Write a function that counts the frequency of each word in a sentence. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge16.py">Day16</a> |
+| 17  | #Create a program that capitalizes the first letter of each word in a sentence. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge17.py">Day17</a> |
