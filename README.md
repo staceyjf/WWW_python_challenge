@@ -23,3 +23,6 @@ This is my participation into Women Who Code 30 days of code challenge in python
 | 15  | #Create a program that checks if a year is a leap year. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge15.py">Day15</a> |
 | 16  | #Write a function that counts the frequency of each word in a sentence. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge16.py">Day16</a> |
 | 17  | #Create a program that capitalizes the first letter of each word in a sentence. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge17.py">Day17</a> |
+| 18  | #Create a program to find the largest among three numbers. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge18.py">Day18</a> |
+| 19  | #Write a function to calculate the factorial of a number. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge19.py">Day19</a> |
+| 20  | #Write a function that takes a list of numbers and returns a new list containing only the even numbers.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge20.py">Day20</a> |
