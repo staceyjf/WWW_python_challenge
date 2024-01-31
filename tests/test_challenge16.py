@@ -17,7 +17,6 @@ def test_count_words():
     assert count_words([]) == None
 
 def test_get_user_input_16(monkeypatch):
-
     # Store simulated inputs in a list
     inputs = iter(['There are many many words', 'words'])
     # Monkeypatch input function to return values from the list
