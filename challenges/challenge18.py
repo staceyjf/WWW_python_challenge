@@ -6,7 +6,7 @@ def get_user_inputs_18():
         input_1 = input('Enter your first number:')
         input_2 = input('Enter your second number:')
         input_3 = input('Enter your third number:')
-        user_input = [int(input_1), int(input_2), int(input_3)]
+        user_input = [float(input_1), float(input_2), float(input_3)]
 
         if len(user_input) == 3:
             return user_input

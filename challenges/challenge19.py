@@ -1,26 +1,36 @@
 # Day 19 : Write a function to calculate the factorial of a number.
 
+# Factorials
+# Must be positive
+# Must be Int
+# 0! is 1
+
+# can use import Math math.factorial()
+
 #user input
 def get_user_input_19():
     try:
-        user_input = input('Enter your string:')
-        if isinstance(user_input, str) and user_input != '': #input is not empty or a number
-            return user_input
+        user_input = input('Enter your number:')
+        if user_input.isdigit() and user_input != '': #input is a whole number and not empty
+            return int(user_input)
         else:
             return None
-    except AttributeError:
+    except:
         return None
 
-def capitalize_words(user_input):
-    if isinstance(user_input, str) and user_input != '': #not empty and a string
-        result = ''
-        for word in user_input.split():
-            x = word.capitalize()
-            result += x + ' '
-        return result.rstrip()
+def calculate_factorial(user_input):
+    if isinstance(user_input, int) and user_input > 0:
+        total = 1
+        for number in range(2,user_input + 1):
+            print(number)
+            total *= number
+        return total
+    elif user_input == 0 or  user_input == 1:
+        return 1
     else:
+        print('Invalid input')
         return None
-    
+
 if __name__ == "__main__":
     user_input = get_user_input_19()
-    print(capitalize_words(user_input))
+    print(calculate_factorial(user_input))
