@@ -5,7 +5,7 @@ from challenges.challenge13 import get_user_input_13, shuffle
 
 def test_shuffle():
     # Test should return a random order for the list
-    original_list = [1, 2, 3]
+    original_list = [1, 2, 3, 4, 7, 8]
     shuffled_list = shuffle(original_list[:])  # Make a copy before shuffling
     assert shuffled_list != original_list
 
