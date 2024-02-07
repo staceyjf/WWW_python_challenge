@@ -26,3 +26,11 @@ This is my participation into Women Who Code 30 days of code challenge in python
 | 18  | #Create a program to find the largest among three numbers. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge18.py">Day18</a> |
 | 19  | #Write a function to calculate the factorial of a number. | <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge19.py">Day19</a> |
 | 20  | #Write a function that takes a list of numbers and returns a new list containing only the even numbers.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge20.py">Day20</a> |
+| 21  | #Create a program to remove a specific element from a set.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge21.py">Day21</a> |
+| 22  | #Create a program to find the second-largest element in a list.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge22.py">Day22</a> |
+| 23  | #Write a program that checks if a key exists in a dictionary.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge23.py">Day23</a> |
+| 24  | #Write a program to remove vowels from a given string.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge24.py">Day24</a> |
+| 25  | #Create a program to concatenate two lists.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge25.py">Day25</a> |
+| 26  | #Create a program that uses a lambda function to square each element of a list.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge26.py">Day26</a> |
+| 27  | #Create a program that sorts a list of strings alphabetically.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge27.py">Day27</a> |
+| 28  | #Create a program that removes the nth element from a list.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge28.py">Day28</a> |
