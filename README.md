@@ -34,3 +34,4 @@ This is my participation into Women Who Code 30 days of code challenge in python
 | 26  | #Create a program that uses a lambda function to square each element of a list.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge26.py">Day26</a> |
 | 27  | #Create a program that sorts a list of strings alphabetically.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge27.py">Day27</a> |
 | 28  | #Create a program that removes the nth element from a list.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge28.py">Day28</a> |
+| 29  | #Create a function that generates a random number between a given range.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge29.py">Day29</a> |
