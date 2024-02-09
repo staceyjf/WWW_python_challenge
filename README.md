@@ -35,3 +35,4 @@ This is my participation into Women Who Code 30 days of code challenge in python
 | 27  | #Create a program that sorts a list of strings alphabetically.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge27.py">Day27</a> |
 | 28  | #Create a program that removes the nth element from a list.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge28.py">Day28</a> |
 | 29  | #Create a function that generates a random number between a given range.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge29.py">Day29</a> |
+| 30  | #Create a function that finds the second smallest element in a list.| <a href="https://github.com/staceyjf/WWW_python_challenge/blob/main/challenges/challenge30.py">Day30</a> |

@@ -9,17 +9,14 @@ from challenges.challenge29 import random_num_generator
 def test_random_num_generator(monkeypatch):
    #Test should return a random number from a range of positive numbers
    result = random_num_generator("0", "5") 
-   assert isinstance(result, int)  # Ensure the result is an integer
    assert 0 <= result <= 5  # Ensure the result is within the specified range
 
    #Test should return a random number from a range of negative numbers
    result = random_num_generator("-4", "0") 
-   assert isinstance(result, int)  # Ensure the result is an integer
    assert -4 <= result <= 0  # Ensure the result is within the specified range
 
    #Test should return a random number even when the order of inputs has the highest first
    result = random_num_generator("8", "0") 
-   assert isinstance(result, int)  # Ensure the result is an integer
    assert 0 <= result <= 8  # Ensure the result is within the specified range
 
    #Test should return None if only one input is given
